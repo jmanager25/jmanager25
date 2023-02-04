@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there I am Júlio! <br><br>I'm a junior software developer currently completing a bootcamp at the Code Institute. <br>Based in the Netherlands, I have a strong passion for coding and the tech industry. <br><br>When I'm not coding, I enjoy watching football and sci-fi movies, as well as traveling and exploring new places. <br>I'm eager to continue growing my skills and making an impact in the field of software development. <br><br>Let's connect and build something great!
+Hi there! <br><br>I'm Júlio, a junior software developer based in the Netherlands and currently completing a Full Stack Software Development bootcamp at the Code Institute. <br>I have a strong passion for coding and the tech industry. <br><br>When I'm not coding, I enjoy watching football and sci-fi movies, as well as traveling and exploring new places. <br>I'm eager to continue growing my skills and making an impact in the field of software development. <br><br>Let's connect and build something great!
 
 
 ## 🌐 Contact Me:
@@ -11,7 +11,7 @@ Hi there I am Júlio! <br><br>I'm a junior software developer currently completi
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Programming Languages:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
