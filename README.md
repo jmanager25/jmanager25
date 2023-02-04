@@ -24,6 +24,14 @@ Hi there I am Júlio! <br><br>I'm a junior software developer currently completi
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+## Projects
+| Project | Description |
+| :-----------: | :-----------: |
+| <p><a href="https://github.com/jmanager25/tavares-barbershop"><img src="https://github.com/jmanager25/tavares-barbershop/blob/main/assets/images/project-image.jpeg"></a></p><p>Tavares Barbershop</p> | <p>Tavares Barbershop is a website created to provide potential clients with important information about services, opening hours, and location of the shop. It aims to boost the barbering bussiness, bring in clients and help the growth of the shop. Created using HTML and CSS. |
+
+
+ 
+  
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=jmanager25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
