@@ -25,10 +25,11 @@ Hi there I am Júlio! <br><br>I'm a junior software developer currently completi
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Projects
-| Project | Description |
+| Project | Description | 
 | :-----------: | :-----------: |
-| <p><a href="https://github.com/jmanager25/tavares-barbershop"><img src="https://github.com/jmanager25/tavares-barbershop/blob/main/assets/images/project-image.jpeg"></a></p><p>Tavares Barbershop</p> | <p>Tavares Barbershop is a website created to provide potential clients with important information about services, opening hours, and location of the shop. It aims to boost the barbering bussiness, bring in clients and help the growth of the shop. Created using HTML and CSS. |
-
+| <p><a href="https://github.com/jmanager25/tavares-barbershop"><img src="https://github.com/jmanager25/tavares-barbershop/blob/main/assets/images/project-image.jpeg"></a></p><p>Tavares Barbershop</p> | <p>Website created to provide potential clients with important information about services, opening hours, and location of the shop. Created using HTML and CSS. |
+| <p><a href="https://github.com/jmanager25/quiz-master"><img src="https://github.com/jmanager25/quiz-master/blob/main/assets/images/responsive.jpeg"></a></p><p>Quiz Master</p> | <p>Online quiz game that allows the players to test their trivial knowledge about a variety of topics. Created using HTML, CSS and JavaScript. |
+| <p><a href="https://github.com/jmanager25/hangman-game"><img src="https://github.com/jmanager25/hangman-game/blob/main/assets/images/Responsive-mockup.jpeg"></a></p><p>Hangman Game</p> | <p>Hangman Game is a guessing game written with python and that runs on a terminal. |
 
  
   
