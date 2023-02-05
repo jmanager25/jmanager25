@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! <br><br>I'm Júlio, a junior software developer based in the Netherlands and currently completing a Full Stack Software Development bootcamp at the Code Institute. <br>I have a strong passion for coding and the tech industry. <br><br>When I'm not coding, I enjoy watching football and sci-fi movies, as well as traveling and exploring new places. <br>I'm eager to continue growing my skills and making an impact in the field of software development. <br><br>Let's connect and build something great!
+Hi there! <br><br>I'm Júlio, a full stack software developer based in the Netherlands and currently completing a Full Stack Software Development bootcamp at the Code Institute. <br>I have a strong passion for coding and the tech industry. <br><br>When I'm not coding, I enjoy watching football and sci-fi movies, as well as traveling and exploring new places. <br>I'm eager to continue growing my skills and making an impact in the field of software development. <br><br>Let's connect and build something great!
 
 
 ## 🌐 Contact Me:
